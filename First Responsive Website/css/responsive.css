@@ -1,0 +1,125 @@
+body{
+    /* background: rgb(212, 212, 212); */
+}
+.main_logo img{
+    width: 65px;
+    height: 55px;
+  }
+
+/* side navbar  */
+#sidebar_nav{
+    /* display: none; */
+    margin-top: 30px;
+
+}
+
+/* navbar  */
+.navbar{
+    flex-wrap: wrap;
+    position: static;
+}
+.search_input input{
+    font-size: 13px;
+    padding: 3px 5px;
+}
+.search_input button {
+    font-size: 13px;
+    padding: 3px 5px;
+}
+/* COURCES  CATEGORIES */
+
+.cources_categories h1{
+    font-size: 0.5rem;
+}
+
+ /* Cources   cources section two */
+.cources_sec{
+    flex-wrap: wrap;
+    justify-content: center;  
+}
+.cources__ {
+    flex-wrap: wrap;
+}
+/* section 1   */
+.section_1 {
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    text-align: left;    
+}
+/* section 3   */
+.section_3{
+    flex-wrap: wrap;
+}
+.section2_h1{
+    font-size: 31px;
+}
+.section3_1 img{
+    width: 300px;
+    height: 300px;
+}
+.section3_1_h1 {
+    /* padding: 0 400px; */
+    /* font-size: 320px; */
+  }
+/* section 2    */
+.section2_boxes{
+    flex-wrap: wrap;
+    text-align: right;
+}
+.size{
+    margin: 20px 0;
+}
+
+/* overlay */
+.singlebox1{
+    margin: 10px 0;
+}
+.singlebox1 img{
+    width: 295px;
+    height: 251px;
+}
+.singlebox{
+    margin: 10px 0;
+}
+.singlebox img{
+    width: 295px;
+}
+
+/* footer  decoration */
+.footerbtn1{
+    display: none;
+}
+.footerbtn2{
+  display: none;
+}
+.footer_partleft{
+    display: none;
+}
+.footer_partright{
+    display: none;
+}
+/* footer  */
+.fotter{
+    flex-wrap: wrap;
+}
+.left_colume_text_links{
+    padding: 0 10px;
+  }
+
+.right_colume{
+    /* flex-wrap: wrap; */
+    /* padding: 10px; */
+}
+
+.right_colume input {
+    margin-top: 15px;
+    font-size: 12px;
+    padding: 8px 10px;
+    border: 1px solid red;
+  }
+  .right_colume input{
+      width: 200px;
+  }
+  .subscribe_btn{
+      width: 200px;
+  }
